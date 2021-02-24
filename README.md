@@ -1,5 +1,5 @@
 # birdnest-occupancy-model
-An object detection model to count birds nesting
+An object detection model to count birds nesting. The model will place a box around each bird detected, allowing extraction of metrics about the size and location of the bird. Optionally we try to classify the bird species.
 
 ## References
 - Using Yolo, with [dataset](http://nameless.cis.udel.edu/data/nests/): [Fast, Deep Detection and Tracking of Birds & Nests](http://vision.cis.udel.edu/pubs/2016/WRS16/fast-deep-detection.pdf)
