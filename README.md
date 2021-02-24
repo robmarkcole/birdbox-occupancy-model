@@ -6,4 +6,4 @@ An object detection model to count birds nesting. The model will place a box aro
 - Using Retinanet: [An Automatic Detection Method of
 Bird’s Nest on Transmission Line
 Tower Based on Faster_RCNN](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9187664)
-- [Predicting Bounding Boxes using Cornell’s NABirds Data.](https://towardsdatascience.com/bird-box-1d31bad4c9c7) uses the [NABirds V1 collection of 48,000 annotated photographs of the 400 species of birds that are commonly observed in North America](https://dl.allaboutbirds.org/nabirds)
+- [Predicting Bounding Boxes using Cornell’s NABirds Data.](https://towardsdatascience.com/bird-box-1d31bad4c9c7) with EfficientNet uses the [NABirds V1 collection of 48,000 annotated photographs of the 400 species of birds that are commonly observed in North America](https://dl.allaboutbirds.org/nabirds)
